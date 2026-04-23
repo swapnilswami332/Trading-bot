@@ -45,8 +45,8 @@ This will tell you if:
 
 ### Copy & Save:
 ```
-API Key:     xdxJeBoOKW7qGDUybF2lLR6nh9Rf0MUQS6a5I3hGVg1Uuwy2kVdm5iRWgOgFVdlD
-Secret Key:  cukOrBXnqb2MX0tkkN8TaNzGeSKQrlnPEX0WHSLpymJ7Sv38tOvfj0FNVus2gkhe
+API Key:     BINANCE_API_KE
+Secret Key:  BINANCE_SECRET_KEY
 ```
 
 ⚠️ **NEVER commit these to git! Store them in environment variables instead.**
