@@ -1,4 +1,4 @@
-# Binance Futures Testnet Trading Bot
+# Binance Futures Testnet Trading Bot.
 
 A full-stack web application for placing orders on Binance Futures Testnet. This application provides a simple web interface to interact with the Binance Futures Testnet API for placing MARKET and LIMIT orders.
 
